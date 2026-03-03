@@ -5,8 +5,11 @@
 
 | Screenshot 1 | Screenshot 2 |
 |:---:|:---:|
-| ![1](./dotfiles_1.png) | ![2](./dotfiles_2.png) |
-| ![3](./dotfiles_3.png) | ![4](./dotfiles_4.png) |
+| ![Desktop overview](./dotfiles_1.png) | ![Kitty terminal](./dotfiles_2.png) |
+| Launcher | Bar / Widgets |
+| ![wofi launcher](./dotfiles_3.png) | ![Quickshell bar](./dotfiles_4.png) |
+
+
 
 ## ☆ System ☆
 - **WM:** Hyprland
