@@ -18,3 +18,4 @@
 - **Launcher:** wofi
 - **Theme:** Frosted Indigo (Accent Color: #667bbe)
 - **OS:** Arch Linux
+- **Display Manager:** sddm
