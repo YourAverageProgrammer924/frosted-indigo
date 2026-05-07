@@ -1,6 +1,18 @@
 # ☆ Frosted-Indigo --- Dotfiles ☆
 
 
+## ☆ Setup ☆
+
+Run from inside the repo directory:
+
+```bash
+bash setup.sh
+```
+
+> Requires `yay` (or another AUR helper) for AUR packages. After install, reboot to launch into Hyprland via SDDM.
+
+---
+
 ## ☆ Screenshots ☆
 
 | Overview | Terminal |
